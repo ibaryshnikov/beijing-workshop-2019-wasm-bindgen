@@ -1,6 +1,6 @@
 # The contents of the wasm workshop, part 2
 
-There are three examples of using `wasm-bindgen`:
+Examples of using `wasm-bindgen`:
  - with [es6](es6) modules
  - with [node.js](nodejs)
  - with [webpack](webpack)
