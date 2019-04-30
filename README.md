@@ -25,7 +25,7 @@ Optionally, install static server
 cargo install https
 ```
 
-For `nodejs` and `webpack` examples
+For `node.js` and `webpack` examples
 you will need `node.js` binary installed.<br>
 For detailed instructions visit https://nodejs.org/en/download/
 
