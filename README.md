@@ -1,6 +1,6 @@
 # The contents of the wasm workshop, part 2
 
-There are three examples of using `wasm-pack`:
+There are three examples of using `wasm-bindgen`:
  - with [es6](es6) modules
  - with [node.js](nodejs)
  - with [webpack](webpack)
@@ -25,5 +25,13 @@ Optionally, install static server
 cargo install https
 ```
 
-For [node.js](nodejs) and [webpack](webpack) examples
-you will need [node.js](https://nodejs.org) binary installed
+For `nodejs` and `webpack` examples
+you will need `node.js` binary installed.<br>
+For detailed instructions visit https://nodejs.org/en/download/
+
+### Useful links
+
+https://rustwasm.github.io/docs/wasm-bindgen/
+https://rustwasm.github.io/docs/wasm-pack/
+https://nodejs.org
+https://webpack.js.org/
