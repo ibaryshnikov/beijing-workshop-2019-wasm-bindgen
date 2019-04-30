@@ -31,7 +31,7 @@ For detailed instructions visit https://nodejs.org/en/download/
 
 ### Useful links
 
-https://rustwasm.github.io/docs/wasm-bindgen/
-https://rustwasm.github.io/docs/wasm-pack/
-https://nodejs.org
-https://webpack.js.org/
+- https://rustwasm.github.io/docs/wasm-bindgen/
+- https://rustwasm.github.io/docs/wasm-pack/
+- https://nodejs.org
+- https://webpack.js.org/
