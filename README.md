@@ -1,4 +1,4 @@
-# The contents of the wasm workshop, part 1
+# The contents of the wasm workshop, part 2
 
 There are three examples of using `wasm-pack`:
  - with [es6](es6) modules
