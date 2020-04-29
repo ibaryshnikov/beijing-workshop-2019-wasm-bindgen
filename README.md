@@ -16,7 +16,7 @@ rustup target add wasm32-unknown-unknown
 Install `wasm-pack`
 
 ```
-cargo install wasm-pack --version 0.8.1
+cargo install wasm-pack --version 0.9.1
 ```
 
 Optionally, install static server
